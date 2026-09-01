@@ -1,11 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0066FF&height=180&section=header&text=Ahmed%20Mohamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="Ahmed Mohamed" />
+<img src="https://ahmedinnov.com/banner.png" alt="Ahmed Mohamed — Founder & CTO at Ahmed Innovation" width="100%" />
 
-<a href="https://ahmedinnov.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Founder+%26+CTO+%40+Ahmed+Innovation;Senior+Flutter+%26+Laravel+Engineer;47%2B+Production+iOS+%2F+Android+%2F+Web+Apps;99.95%25+Crash-Free+Releases" alt="Typing SVG" /></a>
+<a href="https://ahmedinnov.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Laravel+Engineer;6%2B+Years+Building+Digital+Products;iOS+%C2%B7+Android+%C2%B7+Web;Let%27s+build+something+great" alt="Typing SVG" /></a>
 
-<a href="https://ahmedinnov.com"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://ahmedinnov.com"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ahmedinnov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ahmedinnov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://wa.me/201028790391"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://t.me/ahmedinnov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.facebook.com/ahmedinnov"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.tiktok.com/@ahmedinnov"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="mailto:info@ahmedinnov.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -24,7 +29,7 @@ Based in **Cairo, Egypt** — working worldwide.
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,firebase,mysql,js,ts,git,github,postman,figma&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,firebase,mysql,js,ts,git,github,postman&perline=11" alt="Tech Stack" />
 
 </div>
 
@@ -45,7 +50,5 @@ Based in **Cairo, Egypt** — working worldwide.
 I turn ideas into shipped apps. Have a product in mind?
 
 <a href="https://ahmedinnov.com"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ahmedinnov.com-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00E5FF&height=120&section=footer" alt="footer" />
 
 </div>
