@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mohamed
 
-<!--
-**ahmedinnov/ahmedinnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CTO of Ahmed Innovation — a founder-led software consultancy.
 
-Here are some ideas to get you started:
+Senior Flutter & Laravel engineer with 6+ years building and shipping 47+ production apps for iOS, Android, and the web — across e-commerce, gaming, fintech, loyalty, and SaaS. From first call to App Store approval — architecture, code, and delivery, all personally led. Focused on measurable outcomes: fast cold-starts, 99.95% crash-free rates, and checkout flows that convert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio: https://ahmedinnov.com — based in Cairo, Egypt, working worldwide.
+
+## Tech Stack
+
+Flutter · Dart · Laravel · PHP · Firebase · Firestore · MySQL · REST APIs · CI/CD
+
+## Connect
+
+Portfolio: https://ahmedinnov.com
+
+LinkedIn: https://www.linkedin.com/in/ahmedinnov
+
+Email: info@ahmedinnov.com
