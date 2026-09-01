@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ahmedinnov.com/banner.png" alt="Ahmed Mohamed — Founder & CTO at Ahmed Innovation" width="100%" />
+<img src="https://ahmedinnov.com/banner.png?v=2" alt="Ahmed Mohamed — Founder & CTO at Ahmed Innovation" width="100%" />
 
 <a href="https://ahmedinnov.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Senior+Flutter+%26+Laravel+Engineer;6%2B+Years+Building+Digital+Products;iOS+%C2%B7+Android+%C2%B7+Web;Let%27s+build+something+great" alt="Typing SVG" /></a>
 
